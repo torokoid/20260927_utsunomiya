@@ -179,7 +179,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">ベルモール地下駐車場に入ります</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wMgd0grVccU?si=1otYjya6Z43_ZQT0&autoplay=1&mute=1&loop=1&playlist=hs5FQV4sKjg" title="YouTube video player"frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wMgd0grVccU?si=1otYjya6Z43_ZQT0&autoplay=1&mute=1&loop=1&playlist=wMgd0grVccU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 <h2><span class="yellow">まずはワンちゃん達とこんにちは</span></h2>
